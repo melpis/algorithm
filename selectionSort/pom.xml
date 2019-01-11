@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.algorithm</groupId>
-    <artifactId>binarySearch</artifactId>
+    <artifactId>selectionSort</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>binarySearch</name>
+    <name>selectionSort</name>
 
     <properties>
         <java.version>1.8</java.version>
@@ -34,5 +34,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

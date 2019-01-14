@@ -7,6 +7,6 @@
 3. 맨 처음 위치를 뺀 나머지 배열을 같은 방법으로 교체한다.
 4. 위 과정 반복 
  
-시간복잡도는 O(n*n)
+시간복잡도는 O(n^n)
  
 * [구현 파일](src/main/java/com/algorithm/guide/SelectionSort.java)

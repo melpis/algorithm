@@ -7,8 +7,8 @@
 3. 비교할때 key보다 작으면 mid+1 크면 mid-1
 4. low <= high가 될때까지 반복
  
-단순 탐색은 시간복잡도가 O( n ) 
-이분 탐색은  O( log(n) )
+단순 탐색은 시간복잡도가 O(n) 
+이분 탐색은  O(log(n))
  
 * [구현 파일](src/main/java/com/algorithm/guide/BinarySearch.java)
 * [문제 링크](https://programmers.co.kr/learn/courses/30/parts/12486)
